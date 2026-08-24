@@ -32,18 +32,38 @@ Artificial Intelligence, Web Development, and Software Engineering.
 ## 🚀 Featured Projects
 
 ### 🛒 AI E-Commerce
-Django-based e-commerce application with authentication,
-shopping cart, orders, reviews, and PostgreSQL.
+
+A Django-based e-commerce application with:
+
+- 🔐 User Authentication
+- 🛒 Shopping Cart
+- 📦 Orders
+- ⭐ Reviews
+- 🗄️ PostgreSQL Database
+
+**Tech:** Python • Django • PostgreSQL • HTML • CSS
+
+---
 
 ### 🎓 Student Management System
-Student management system built with Django using CRUD operations.
+
+A student management system built with Django using CRUD operations.
+
+**Features:**
+- ➕ Add Students
+- ✏️ Edit Students
+- 🗑️ Delete Students
+- 🔍 View Students
+
+**Tech:** Python • Django • PostgreSQL
+
+---
 
 ### ❌⭕ Tic-Tac-Toe AI
-Tic-Tac-Toe game built with C++ using the Minimax algorithm.
 
----
+A C++ Tic-Tac-Toe game using the **Minimax Algorithm** to create an intelligent AI opponent.
 
----
+**Tech:** C++ • Algorithms • Minimax
 
 ## 🎯 Currently Learning
 
