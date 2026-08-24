@@ -44,11 +44,6 @@ Student management system built with Django using CRUD operations.
 Tic-Tac-Toe game built with C++ using the Minimax algorithm.
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman-ak&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-ak&layout=compact)
 
 ---
 
