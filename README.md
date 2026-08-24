@@ -44,12 +44,12 @@ shopping cart, orders, reviews, and PostgreSQL.
 
 ### ❌⭕ XO Minimax
 
-A Tic-Tac-Toe game built with C++ using the
+A Tic-Tac-Toe game built with Python using the
 **Minimax Algorithm** to create an intelligent AI opponent.
 
 🔗 [View Project](https://github.com/abdelrahman-ak/XO.Minimax)
 
-**Tech:** C++ • Algorithms • Minimax
+**Tech:** Python • Minimax • Algorithms
 
 ## 🎯 Currently Learning
 
