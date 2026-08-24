@@ -9,6 +9,19 @@ Artificial Intelligence, Web Development, and Software Engineering.
 
 ---
 ##Skills
+## 👨‍💻 About Me
+
+I'm Abdelrahman, a Computer Science student focused on
+Artificial Intelligence and Full-Stack Development.
+
+💡 I enjoy building practical software projects and learning
+how intelligent systems work.
+
+🚀 My current focus is developing my skills in Python, Django,
+Algorithms, and Artificial Intelligence.
+
+🎯 My goal is to build useful real-world applications and
+grow as a software developer.
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
