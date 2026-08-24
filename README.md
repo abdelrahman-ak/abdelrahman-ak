@@ -8,28 +8,26 @@ I'm a Computer Science student interested in
 Artificial Intelligence, Web Development, and Software Engineering.
 
 ---
+##Skills
+## 🛠️ Tech Stack
 
-## 🛠️ Skills
+### 💻 Programming Languages
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
+</p>
 
-🐍 Python  
-⚡ C++  
-☕ Java
+### 🌐 Web Development
 
-**Web Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,django" />
+</p>
 
-🌐 HTML  
-🎨 CSS  
-🚀 Django
+### 🗄️ Database & Tools
 
-**Database & Tools**
-
-🐘 PostgreSQL  
-🔧 Git & GitHub  
-💻 VS Code
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" />
+</p>
 
 ## 🚀 Featured Projects
 
