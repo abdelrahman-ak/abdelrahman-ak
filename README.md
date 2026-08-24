@@ -4,43 +4,45 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm a Computer Science student interested in
-Artificial Intelligence, Web Development, and Software Engineering.
+I'm a Computer Science student focused on Artificial Intelligence,
+Full-Stack Development, and Software Engineering.
 
 ---
-##Skills
+
 ## 👨‍💻 About Me
 
-I'm Abdelrahman, a Computer Science student focused on
-Artificial Intelligence and Full-Stack Development.
+- 🎓 Computer Science Student
+- 🤖 Interested in Artificial Intelligence
+- 💻 Interested in Full-Stack Development
+- 🐍 Working with Python & Django
+- ⚡ Working with C++
+- 🧠 Interested in Algorithms & Data Structures
+- 🚀 Building practical software projects
 
-💡 I enjoy building practical software projects and learning
-how intelligent systems work.
+---
 
-🚀 My current focus is developing my skills in Python, Django,
-Algorithms, and Artificial Intelligence.
-
-🎯 My goal is to build useful real-world applications and
-grow as a software developer.
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
-</p>
+- 🐍 Python
+- ⚡ C++
+- ☕ Java
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,django" />
-</p>
+- 🌐 HTML
+- 🎨 CSS
+- 🚀 Django
 
 ### 🗄️ Database & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" />
-</p>
+- 🐘 PostgreSQL
+- 🔧 Git
+- 🐙 GitHub
+- 💻 VS Code
+
+---
 
 ## 🚀 Featured Projects
 
@@ -64,27 +66,39 @@ A Tic-Tac-Toe game built with Python using the
 
 **Tech:** Python • Minimax • Algorithms
 
+---
+
 ## 🎯 Currently Learning
 
-🤖 Artificial Intelligence  
-🐍 Advanced Python  
-🌐 Full-Stack Development  
-🧠 Algorithms & Data Structures
+- 🤖 Artificial Intelligence
+- 🐍 Advanced Python
+- 🌐 Full-Stack Development
+- 🧠 Algorithms & Data Structures
+
+---
+
+## 🚀 Currently Working On
+
+- 🐍 Improving my Python & Django skills
+- 🤖 Learning more about Artificial Intelligence
+- 🧠 Practicing Algorithms & Data Structures
+- 🌐 Building Full-Stack projects
+- 💻 Developing new programming projects
+
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-yasser-89532b401/)
 
-<a href="https://www.linkedin.com/in/abdelrahman-yasser-89532b401/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelrahman-ak)
 
-<a href="https://github.com/abdelrahman-ak" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 ---
 
-⭐ **Thanks for visiting my profile!**
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+### 🚀 Keep Learning. Keep Building.
+
+</div>
