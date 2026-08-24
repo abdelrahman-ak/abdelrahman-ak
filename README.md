@@ -33,35 +33,21 @@ Artificial Intelligence, Web Development, and Software Engineering.
 
 ### 🛒 AI E-Commerce
 
-A Django-based e-commerce application with:
+A Django-based e-commerce application with authentication,
+shopping cart, orders, reviews, and PostgreSQL.
 
-- 🔐 User Authentication
-- 🛒 Shopping Cart
-- 📦 Orders
-- ⭐ Reviews
-- 🗄️ PostgreSQL Database
+🔗 [View Project](https://github.com/abdelrahman-ak/ai-ecommerce)
 
 **Tech:** Python • Django • PostgreSQL • HTML • CSS
 
 ---
 
-### 🎓 Student Management System
+### ❌⭕ XO Minimax
 
-A student management system built with Django using CRUD operations.
+A Tic-Tac-Toe game built with C++ using the
+**Minimax Algorithm** to create an intelligent AI opponent.
 
-**Features:**
-- ➕ Add Students
-- ✏️ Edit Students
-- 🗑️ Delete Students
-- 🔍 View Students
-
-**Tech:** Python • Django • PostgreSQL
-
----
-
-### ❌⭕ Tic-Tac-Toe AI
-
-A C++ Tic-Tac-Toe game using the **Minimax Algorithm** to create an intelligent AI opponent.
+🔗 [View Project](https://github.com/abdelrahman-ak/XO.Minimax)
 
 **Tech:** C++ • Algorithms • Minimax
 
