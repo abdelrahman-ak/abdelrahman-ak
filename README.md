@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelrahman
 
-<!--
-**abdelrahman-ak/abdelrahman-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Student | 💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in
+Artificial Intelligence, Web Development, and Software Engineering.
+
+---
+
+## 🛠️ Skills
+
+**Languages**
+
+🐍 Python  
+⚡ C++  
+☕ Java
+
+**Web Development**
+
+🌐 HTML  
+🎨 CSS  
+🚀 Django
+
+**Database & Tools**
+
+🐘 PostgreSQL  
+🔧 Git & GitHub  
+💻 VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 AI E-Commerce
+Django-based e-commerce application with authentication,
+shopping cart, orders, reviews, and PostgreSQL.
+
+### 🎓 Student Management System
+Student management system built with Django using CRUD operations.
+
+### ❌⭕ Tic-Tac-Toe AI
+Tic-Tac-Toe game built with C++ using the Minimax algorithm.
+
+---
+
+## 🎯 Currently Learning
+
+🤖 Artificial Intelligence  
+🐍 Advanced Python  
+🌐 Full-Stack Development  
+🧠 Algorithms & Data Structures
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelrahman-ak)
+
+---
+
+⭐ **Thanks for visiting my profile!**
