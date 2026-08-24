@@ -45,15 +45,6 @@ Tic-Tac-Toe game built with C++ using the Minimax algorithm.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-ak&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-ak&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 ---
 
